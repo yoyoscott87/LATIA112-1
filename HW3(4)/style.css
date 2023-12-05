@@ -1,0 +1,14 @@
+#myGraph{
+    display:flex;
+    width: 600px;
+    height: 400px;
+    border: 1 solid rgb(99, 43, 156)
+}
+#myGraph2{
+    width: 600px;
+    height: 400px;
+}
+#myGraph3{
+    width: 600px;
+    height: 400px;
+}
