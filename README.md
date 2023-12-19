@@ -16,4 +16,3 @@
 [HW3 line機器人](chatbot)
 
 [HW4 plotly練習]()
-[HW4csv](student.csv)
